@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    negative       0.91      0.90      0.90      6960
+      helmet       0.86      0.87      0.86      4863
+
+    accuracy                           0.89     11823
+   macro avg       0.88      0.88      0.88     11823
+weighted avg       0.89      0.89      0.89     11823
